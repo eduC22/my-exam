@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Saludos, soy Julio Eduardo y este es el proyecto de examen
+          
+          ISP "HONORIO DELGADO ESPINOZA"<br/>
+          Julio Eduardo Tamo Caceres<br/>
+          Noche<br/>
         </p>
         <a
           className="App-link"
